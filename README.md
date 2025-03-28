@@ -19,15 +19,7 @@ react-router-dom	^7.1.5	=>Handles routing in React applications.<br>
 scroll-lock	^2.1.5 =>	Prevents unwanted scrolling on specific elements.<br>
 tailwindcss	^4.0.6 =>	Utility-first CSS framework for styling.<br>
 
-<h2>Folder Structure</h2>
-/dist        - Compiled static files for production
-/src         - Main source code
-  /components - Reusable UI components
-  /pages      - Page-level React components
-  /styles     - TailwindCSS styles
-  /assets     - Images, icons, and static files
-public       - Public files like favicon
-index.html   - Main entry point
+
 
 <h2>How It Works:</h2>
 The main entry file is index.html, where React mounts inside the <div id="root"></div>. <br>
